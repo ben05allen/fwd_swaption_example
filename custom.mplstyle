@@ -1,0 +1,13 @@
+# https://github.com/matplotlib/matplotlib/blob/v3.7.2/lib/matplotlib/mpl-data/matplotlibrc
+# https://matplotlib.org/stable/gallery/color/named_colors.html
+
+figure.facecolor: (0.1255, 0.1255, 0.1255)
+axes.titlecolor: white
+axes.facecolor: (0.1686, 0.1686, 0.1686)
+axes.labelcolor: (0.7333, 0.7333, 0.7333)
+axes.edgecolor: (0.7333, 0.7333, 0.7333)
+xtick.color: (0.7333, 0.7333, 0.7333)
+ytick.color: (0.7333, 0.7333, 0.7333)
+axes.grid: True
+grid.color: (0.2667, 0.2667, 0.2667)
+font.size: 10
